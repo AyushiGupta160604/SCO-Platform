@@ -1,5 +1,3 @@
-﻿# Sparkathon
-
 Theme: Supply Chain Management
 
 Phase 1: Smart Substitution Engine + Product Catalog
